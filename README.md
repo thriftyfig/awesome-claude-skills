@@ -466,6 +466,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Anthropic Skills Repository](https://github.com/anthropics/skills) - Official example skills
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
+- [thriftyfig](https://thriftyfig.pages.dev/tasks/find-agent-skills/) - My notes on Claude/Cursor/Codex agent skills, filtered by real use cases, stars and maintenance
 
 ### Inspiration & Use Cases
 
